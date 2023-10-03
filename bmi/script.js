@@ -35,6 +35,7 @@
         }
     }else{
         alert('The form has errors');
+        alert('The form has errors11');
         result.innerHTML = '';
     }
 }
